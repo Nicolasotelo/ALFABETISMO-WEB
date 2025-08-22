@@ -1,0 +1,13 @@
+h1 {
+    /*Selectores de etiqueta */
+    color:rgb(255, 255, 255);
+    text-align:center;
+    padding: 20px;
+    background-color: chartreuse;
+}
+h2 {
+    color:rgb(74, 185, 232);    
+}
+p {
+    color: blueviolet;
+}
