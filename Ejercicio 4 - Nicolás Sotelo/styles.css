@@ -1,0 +1,126 @@
+h1{
+    font-family:"UnifrakturMaguntia", cursive; 
+    font-size: 40px;
+    text-align:center;
+    letter-spacing: 2px;
+    color: #d51717;
+    margin-bottom: 0px; 
+
+}
+.nombre_periodico{
+    font-family:"UnifrakturMaguntia", cursive; 
+    font-size: 100px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #d51717;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    line-height: 1.2;
+}
+
+.fecha{
+    font-family:"Noticia Text", serif; 
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #6b7176;
+    margin-bottom: 20px;
+}
+
+.titulo{ 
+    font-family: "Noticia Text", serif; 
+    font-size: 20px;
+    background-color: #c0392b;
+    border: 5px solid #2755b6;
+    margin: 20px auto;
+    padding: 15px;
+    text-align: center;
+    max-width: 900px;
+    color: white;
+}
+
+
+.menu{
+    font-family: "Noticia Text", serif;
+    position: sticky;
+    top: 0;
+    background: #2c3e50;
+    padding: 10px;
+    z-index: 100;
+    text-align: center;
+}
+.menu a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+p {
+    font-family: "Noticia Text", serif;
+    column-count: 2;
+    column-gap: 40px;
+    padding: 10px;
+    border: 2px dashed #7f8c8d;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+h2{
+    font-family: "Noticia Text", serif;
+    color: #2c3e50;
+    text-align: left;
+    margin-top: 20px;
+}
+
+
+.imagen {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.pie {
+    font-family: "Noticia Text", serif;
+    font-style: italic;
+    margin-top: 8px;
+    font-size: 12px;
+    color: #333;
+    text-align: center;
+}
+
+
+.publicidad {
+    background-color: rgb(244, 204, 204);
+    border: 2px dashed rgb(40, 66, 180);
+    margin: 10px;
+    padding: 15px;
+    font-family: "Noticia Text", serif;
+    font-size: 16px;
+    text-align: center;
+    color: #2c3e50;
+    vertical-align: top;
+    box-sizing: border-box;
+    
+}
+
+.display {
+    display: inline-block;
+    width: 300px;
+    height: auto;   
+    overflow: hidden; 
+}
+
+.publicidad img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+
+
+
